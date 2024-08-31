@@ -1,6 +1,6 @@
 
 **Predicting Loan Default using Machine Learning**
-
+### *Predictive Analysis of Loan Defaults Using ML**
 **Project Overview**
 
 This project aims to predict loan defaults using machine learning techniques. It involves preparing a dataset, feature selection, preprocessing, model training, evaluation, and improving model performance using different strategies, including SMOTE oversampling, feature scaling, normalization, and ensemble learning.
