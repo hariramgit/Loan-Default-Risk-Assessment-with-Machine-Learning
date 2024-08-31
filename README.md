@@ -95,3 +95,19 @@ Future work may include exploring additional feature engineering techniques, app
 **Conclusion**
 
 This project demonstrates the application of machine learning techniques to financial data for predicting loan defaults. By carefully preprocessing data, selecting appropriate features, applying various modeling strategies, and rigorously evaluating model performance, this project provides a comprehensive approach to building predictive models for financial risk assessment.
+
+
+Loan Default Risk Assessment with Machine Learning
+
+## Area Under the Curve (AUC) Plot
+
+![AUC Plot](https://github.com/hariramgit/Loan-Default-Risk-Assessment-with-Machine-Learning/blob/main/Images/AUC.png)
+
+## Correlation Heatmap
+
+![Correlation Heatmap](https://github.com/hariramgit/Loan-Default-Risk-Assessment-with-Machine-Learning/blob/main/Images/Correlation.png)
+
+## Max Voting Ensembling Technique
+
+![Max Voting Ensembling Technique](https://github.com/hariramgit/Loan-Default-Risk-Assessment-with-Machine-Learning/blob/main/Images/MAX%20VOTING%20ENSEMBLING%20TECHNIQUE.png)
+
